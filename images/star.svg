@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="svg2" viewBox="0 0 500 670" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <desc>Source: openclipart.org/detail/209545</desc>
+  <defs>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="236.975" cy="115.34" r="105.909" id="gradient-0" spreadMethod="pad">
+      <stop offset="0" style="stop-color: rgb(72.941% 85.49% 33.333%)"/>
+      <stop offset="1" style="stop-color: rgb(37.355% 50.439% 0%)"/>
+    </radialGradient>
+  </defs>
+  <path d="M 131.066 87.8 H 255.091 L 255.091 67.462 L 342.884 115.341 L 255.091 163.219 L 255.091 142.881 H 131.066 V 87.8 Z" bx:shape="arrow 131.066 67.462 211.818 95.757 55.081 87.793 0 1@7817354b" style="stroke: rgb(0, 0, 0); fill: url(&quot;#gradient-0&quot;); paint-order: fill; fill-rule: nonzero;" transform="matrix(0.999869, -0.016211, 0.016211, 0.999869, -5.271945, 166.992096)"/>
+  <path d="M 129.356 179.223 H 223.088 L 223.088 169.329 L 285.952 195.782 L 223.088 222.236 L 223.088 212.342 H 129.356 V 179.223 Z" bx:shape="arrow 129.356 169.329 156.596 52.907 33.119 62.864 0 1@a921cb93" style="stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255);" transform="matrix(0.999899, -0.014184, 0.014184, 0.999899, 32.292397, 85.279114)"/>
+</svg>
